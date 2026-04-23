@@ -13,7 +13,9 @@
 - [🔰 初心者ガイド (Beginner's Guide)](jpwikibackups/beginnersguide_sc.md)  
    - 初期構成（食品店＋畑）からの発展、実績ハントプレイのやり方  
 - [📊 会計早見表 (Accounting Guide)](jpwikibackups/accountingguide_sc.md)  
-   - 損益計算書(P/L)の見方、投資回収期間(ROI/ROE)の計算、キャッシュフローの管理  
+   - 損益計算書(P/L)の見方、投資回収期間(ROI/ROE)の計算、キャッシュフローの管理
+- [🏗️建設ガイド](jpwikibackups/ConstructionGuide_sc.md)
+   - 建物の建設・解体時の考え方、建設業について
 - [🏢 役員ガイド (Board Member Guide)](jpwikibackups/boardmemberguide_sc.md)  
    - COO, CFO, CMO, CTOの雇うタイミング、経営負担率(管理費/AO)の計算式と対策
 - [🏭 業界ガイド (Industry Guide)](jpwikibackups/industryguide_sc.md)  
